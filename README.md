@@ -1,2 +1,3 @@
-# pdf-output
-PDFファイルの作成＆出力
+# fn-pdf-output
+
+pdf作成&出力機能サンプル(ReportLab使用)
